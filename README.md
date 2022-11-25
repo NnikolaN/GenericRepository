@@ -1,3 +1,3 @@
-# GeneriticRepository
+# GenericRepository
 
 Hello owner !!!
