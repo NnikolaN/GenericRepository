@@ -5,7 +5,11 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccsess", "Data acsess\DataAccsess.csproj", "{EA5CBF49-90FD-4C34-AEDB-4CC6848BE044}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{07EC6C67-35AE-44E5-B9E9-59B203FF7EA8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{07EC6C67-35AE-44E5-B9E9-59B203FF7EA8}"
+	ProjectSection(SolutionItems) = preProject
+		Animals.cs = Animals.cs
+		AnimalType.cs = AnimalType.cs
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{7B3E1B5A-4D40-4E71-8000-2C299A6CC4C3}"
 EndProject
